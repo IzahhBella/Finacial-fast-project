@@ -1,0 +1,39 @@
+body{
+    background-color: #000000;
+}
+
+h1{
+    color: var(--bs-success);
+}
+
+.cardbody{
+    background-color: var(--bs-form-valid-color);
+}
+
+.modal-body{
+    background-color: var(--bs-gray-700);
+    
+}
+
+.modal-header{
+    background-color: var(--bs-gray-700);
+    
+}
+
+.modal-footer{
+    background-color: var(--bs-gray-700);
+
+}
+
+img{
+    width: 140;
+    height: 140;
+}
+
+.login{
+    background-color: #000000;
+}
+
+.login_margin{
+    margin:15%;
+}
